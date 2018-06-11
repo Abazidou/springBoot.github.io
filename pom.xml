@@ -35,7 +35,7 @@
         </dependency>
     </dependencies>
 
-    <build>
+    <!-- <build>
          <plugins>
              <plugin>
                  <groupId>org.codehaus.mojo </groupId>
@@ -50,7 +50,7 @@
                  </configuration>
              </plugin>
          </plugins>
-     </build>
+     </build> -->
 
     <!-- Additional lines to be added here... -->
 
