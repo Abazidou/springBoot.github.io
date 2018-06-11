@@ -7,6 +7,13 @@
     <artifactId>springboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
+    <scm>
+        <url>https://github.com/Abazidou/springBoot.github.io</url>
+        <connection>scm:git:git@github.com:Abazidou/springBoot.github.io.git</connection>
+        <developerConnection>scm:git:git@github.com:Abazidou/springBoot.github.io.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
